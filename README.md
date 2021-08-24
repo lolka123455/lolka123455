@@ -30,7 +30,7 @@
 <p align="left">
   
 <a href = "https://linkedin.com/in/aleksandr tyriatkin/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/lolka1na1bite"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/lolka1na1bite"><img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.gif"/></a>
 <a href = "https://t.me/lolka1na1bite"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png"/></a>
 
 </p>
