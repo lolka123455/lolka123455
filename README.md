@@ -42,8 +42,8 @@
 ## 📊 My Github Stats
 
 <br/>
-<a <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lolka123455&show_icons=true&locale=en&layout=compact" alt="lolka123455" /></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lolka123455&show_icons=true&locale=en&layout=compact" alt="lolka123455" /></p>
 
-<a &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lolka123455&show_icons=true&locale=en" alt="lolka123455" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lolka123455&show_icons=true&locale=en" alt="lolka123455" /></p>
 
-<a <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lolka123455&" alt="lolka123455" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lolka123455&" alt="lolka123455" /></p>
