@@ -9,6 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/lolka1na1bite" target="blank"><img src="https://img.shields.io/twitter/follow/lolka1na1bite?logo=twitter&style=for-the-badge" alt="lolka1na1bite" /></a> </p>
 
+
+## 🙋‍♂️ About Me
+
 - ✍ Chat for communication that supports sending photos to FireBase [ChatApp](https://github.com/lolka123455/ChatApp)
 
 - 🕮 During my training, I learned : **Java Basics,Development of layouts,Processing data in JSON format,Android Architecure Components: Room, LiveData, ViewModel,RecyclerView + CardView + ViewHolder pattern,The Picasso Library,Android SDK,Working with the network,SQLite,Firebase,Retrofit,Understanding MVVM,MVP**
