@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lolka123455" alt="lolka123455" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@lolka1na1bite" target="blank"><img src="https://img.shields.io/twitter/follow/@lolka1na1bite?logo=twitter&style=for-the-badge" alt="@lolka1na1bite" /></a> </p>
+<p align="left"> <a href="https://twitter.com/lolka1na1bite" target="blank"><img src="https://img.shields.io/twitter/follow/lolka1na1bite?logo=twitter&style=for-the-badge" alt="lolka1na1bite" /></a> </p>
 
 - ✍ Chat for communication that supports sending photos to FireBase [ChatApp](https://github.com/lolka123455/ChatApp)
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@lolka1na1bite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lolka1na1bite" height="30" width="40" /></a>
+<a href="https://twitter.com/lolka1na1bite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lolka1na1bite" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aleksandr tyriatkin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleksandr tyriatkin" height="30" width="40" /></a>
 </p>
 
