@@ -20,9 +20,9 @@
 
 - 📝 An application for creating notes by day of the week and degree of importance [Notes](https://github.com/lolka123455/Notes)
 
-- ☔ An application that shows detailed information about the weather in the selected city[Theweather](https://github.com/lolka123455/Theweather)
-- 🧠 An application that generates random addition and subtraction tasks with answer options and limited time[BrainTrainer](https://github.com/lolka123455/BrainTrainer)
-- ☕ An example of an application for remote ordering of tea or coffee with various additives[Cafeorder](https://github.com/lolka123455/Cafeorder)
+- ☔ An application that shows detailed information about the weather in the selected city [Theweather](https://github.com/lolka123455/Theweather)
+- 🧠 An application that generates random addition and subtraction tasks with answer options and limited time [BrainTrainer](https://github.com/lolka123455/BrainTrainer)
+- ☕ An example of an application for remote ordering of tea or coffee with various additives [Cafeorder](https://github.com/lolka123455/Cafeorder)
 
 - 👨‍💻 All of my projects are available at [https://github.com/lolka123455?tab=repositories](https://github.com/lolka123455?tab=repositories)
 
