@@ -12,9 +12,9 @@
 
 ## 🙋‍♂️ About Me
 
-- ✍ Chat for communication that supports sending photos to FireBase [ChatApp](https://github.com/lolka123455/ChatApp)
-
 - 🕮 During my training, I learned : **Java Basics,Development of layouts,Processing data in JSON format,Android Architecure Components: Room, LiveData, ViewModel,RecyclerView + CardView + ViewHolder pattern,Git,The Picasso Library,Android SDK,Working with the network,SQLite,Firebase,Retrofit,Understanding MVVM,SOLID,MVP**
+
+- ✍ Chat for communication that supports sending photos to FireBase [ChatApp](https://github.com/lolka123455/ChatApp)
 
 - 🎦 An application that displays movies with sorting and with detailed information about the movie [MyMovies](https://github.com/lolka123455/MyMovies)
 
