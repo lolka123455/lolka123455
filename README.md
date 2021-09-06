@@ -49,7 +49,7 @@
 
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolka123455&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="lolka123455" /></p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=lolka123455&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="lolka123455" /></p>
 
