@@ -24,7 +24,7 @@
 - 🧠 An application that generates random addition and subtraction tasks with answer options and limited time [BrainTrainer](https://github.com/lolka123455/BrainTrainer)
 - ☕ An example of an application for remote ordering of tea or coffee with various additives [Cafeorder](https://github.com/lolka123455/Cafeorder)
 - 📈 My first new app on Kotlin for viewing cryptocurrency changes [CryptoCheck]
-- https://github.com/lolka123455/CryptoCheck
+- (https://github.com/lolka123455/CryptoCheck)
 
 - 👨‍💻 All of my projects are available at [https://github.com/lolka123455?tab=repositories](https://github.com/lolka123455?tab=repositories)
 
