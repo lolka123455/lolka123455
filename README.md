@@ -12,7 +12,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🕮 During my training, I learned : **Java Basics,Kotlin Basics,Development of layouts,Processing data in JSON format,Android Architecure Components: Room, LiveData, ViewModel,RecyclerView + CardView + ViewHolder pattern,Git,The Picasso Library,Android SDK,Working with the network,SQLite,Firebase,Retrofit2,RxJava3,GSON,Understanding MVVM,SOLID**
+- 🕮 During my training, I learned : **Java ,Kotlin Basics,Development of layouts,Processing data in JSON format,Android Architecure Components: Room, LiveData, ViewModel,RecyclerView + CardView + ViewHolder pattern,Git,The Picasso Library,Android SDK,Working with the network,SQLite,Firebase,Retrofit2,RxJava3,GSON,Understanding MVVM,SOLID**
 
 - ✍ Chat for communication that supports sending photos to FireBase [ChatApp](https://github.com/lolka123455/ChatApp)
 
