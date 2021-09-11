@@ -12,7 +12,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🕮 During my training, I learned : **Java ,Kotlin ,Development of layouts,Processing data in JSON format,Android Architecure Components: Room, LiveData, ViewModel,RecyclerView + CardView + ViewHolder pattern,Git,The Picasso Library,Android SDK,Working with the network,SQLite,Firebase,Retrofit2,RxJava3,GSON,Understanding MVVM,SOLID**
+- 🕮 During my training, I learned : **Java ,Kotlin ,Development of layouts,Processing data in JSON format,Android Architecure Components: Room, LiveData, ViewModel,RecyclerView + CardView + ViewHolder pattern,Git,The Picasso Library,Android SDK,Working with the network,SQLite,Firebase,Retrofit2,RxJava3,GSON,Understanding MVVM,SOLID,I had a little experience working with fragments**
 
 - ✍ Chat for communication that supports sending photos to FireBase [ChatApp](https://github.com/lolka123455/ChatApp)
 
@@ -24,6 +24,8 @@
 - 🧠 An application that generates random addition and subtraction tasks with answer options and limited time [BrainTrainer](https://github.com/lolka123455/BrainTrainer)
 - ☕ An example of an application for remote ordering of tea or coffee with various additives [Cafeorder](https://github.com/lolka123455/Cafeorder)
 - 📈 My first new app on Kotlin for viewing cryptocurrency changes [CryptoCheck](https://github.com/lolka123455/CryptoCheck)
+
+- 🖨️ My first test task in Java [MVCTestEmployees](https://github.com/lolka123455/MVCTestEmployees)
 
 - 👨‍💻 All of my projects are available at [https://github.com/lolka123455?tab=repositories](https://github.com/lolka123455?tab=repositories)
 
