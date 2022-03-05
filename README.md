@@ -12,7 +12,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🕮 During my training, I learned : **Java ,Kotlin ,Android Architecure Components, Room, LiveData,Git,Picasso,Android SDK,Firebase,Retrofit2,RxJava3,GSON,MVVM,SOLID**
+- 🕮 During my training, I learned : **Kotlin ,JSON,GSON,Android Architecure Components: Room, Git,Android
+SDK,Firebase,Retrofit2,RxJava2, Coroutines, Dagger 2, MVVM,SOLID**
 
 - ✍ Chat for communication that supports sending photos to FireBase [ChatApp](https://github.com/lolka123455/ChatApp)
 
