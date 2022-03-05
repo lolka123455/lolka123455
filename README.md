@@ -15,9 +15,7 @@
 - 🕮 During my training, I learned : **Kotlin ,JSON,GSON,Android Architecure Components: Room, Git,Android
 SDK,Firebase,Retrofit2,RxJava2, Coroutines, Dagger 2, MVVM,SOLID**
 
-- ✍ Chat for communication that supports sending photos to FireBase [ChatApp](https://github.com/lolka123455/ChatApp)
-
-- 📈 My first new app on Kotlin for viewing cryptocurrency changes [CryptoCheck](https://github.com/lolka123455/CryptoCheck)
+- 📈 An application on Kotlin with an up-to-date stack of technologies for displaying cryptocurrencies and information about each cryptocurrency [CryptoCheck](https://github.com/lolka123455/CryptoCheck)
 
 - 👨‍💻 All of my projects are available at [https://github.com/lolka123455?tab=repositories](https://github.com/lolka123455?tab=repositories)
 
