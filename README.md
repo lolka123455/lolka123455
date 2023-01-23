@@ -15,11 +15,7 @@
 - 🕮 During my training, I learned : **Kotlin,GSON,Room, Git,Basecamp,Bitbucket,Android
 SDK,Firebase,Retrofit2,RxJava2,Flow,Coroutines,Dagger 2, MVVM**
 
-- 📈 An application on Kotlin with an up-to-date stack of technologies for displaying cryptocurrencies and information about each cryptocurrency [CryptoCheck](https://github.com/lolka123455/CryptoCheck)
-
 - 👨‍💻 All of my projects are available at [https://github.com/lolka123455?tab=repositories](https://github.com/lolka123455?tab=repositories)
-
-- 📫 How to reach me? **altyryatkin@gmail.com**
 
 ## Connect with me:
 <p align="left">
