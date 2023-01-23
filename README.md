@@ -25,7 +25,6 @@ SDK,Firebase,Retrofit2,RxJava2,Flow,Coroutines,Dagger 2, MVVM**
 <p align="left">
   
 <a href = "https://linkedin.com/in/aleksandr tyriatkin/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
-<a href = "https://t.me/lolka1na1bite"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png"/></a>
 
 </p>
 
