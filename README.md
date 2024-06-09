@@ -1,16 +1,15 @@
-## Hi there 👋
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<!--
-**lolka123455/lolka123455** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alexander</h1>
+<h3 align="center">I am an Android developer from St. Petersburg.</h3>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lolka123455&label=Profile%20views&color=0e75b6&style=flat" alt="lolka123455" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lolka123455" alt="lolka123455" /></a> </p>
+
+## 📊 My Github Stats
+
+<br/>
+
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=lolka123455&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="lolka123455" /></p>
